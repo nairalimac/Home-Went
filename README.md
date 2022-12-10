@@ -1,16 +1,16 @@
-# Hello There!
+# Hello There! 😄
 
-This is my personal project, his name`s:  WENT LOGISTIC.
+This is my personal project, his name is:  WENT LOGISTIC
 
-This project starting with my friends long time ago. And today I decide to create this base in Front End, in this first time in focus in HTML and CSS.
-
-But, and next time I starting in interactive in Javascript and other techniques visual and others elements.
+This project starting with my friends long time ago. And today I decided to create this base in Front End.
 
 
 ------------------------------------------------------------------------------------------------------------------------
 
-FOCUS IN SOLUTION PROBLEMS
+More details about the project:
+<p><a href=https://www.behance.net/gallery/138421415/Went-Logist>CLICK IN HERE!</a></p>
 
+Thanks for your time!
 
 ------------------------------------------------------------------------------------------------------------------------
 
