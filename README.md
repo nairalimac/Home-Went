@@ -11,7 +11,7 @@ If you want to see more details design about the project:
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt"Went-Home" width="700px" src=" https://github.com/nairalimac/Home-Went/issues/1#issue-1487702503">
+  <img width="1440" alt="HOME" src="https://user-images.githubusercontent.com/73794747/206820152-3ae635c9-2589-41f4-8348-c0304a0df1d5.png">
  </div>
  
 
